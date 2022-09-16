@@ -37,11 +37,6 @@
         "type": "categorical"
       },
       {
-        "key": "strain",
-        "title": "Strain",
-        "type": "categorical"
-      },
-      {
         "key": "posterior",
         "title": "posterior",
         "type": "continuous"
