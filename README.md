@@ -1,5 +1,5 @@
 # RYMV-WA
-The sequences analysed here are available on Genbank. The articles referenced below listed the scientists who obtained these sequences.
+The sequences analysed in this study are available on Genbank. The articles referenced below list the scientists who obtained these sequences.
 
 
 Rivers and landscape ecology of a plant virus, Rice yellow mottle virus along the Niger Valley 
