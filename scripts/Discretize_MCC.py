@@ -26,9 +26,9 @@
         ##-pol or --polygon_label: polygon_label (default = location) => locationX_80%HPD_XX
 
     #Synopsis:
-        ##SamReader.py -h or --help # launch the help.
-        ##SamReader.py -i or --input <file> # Launch Discretize_MCC
-        ##SamReader.py -i or --input <file> -o or --output <name> # Launch Discretize_MCC to discretize your MCC BEAST nodes output and print the result in the file called <name>
+        ##Discretize_MCC.py -h or --help # launch the help.
+        ##Discretize_MCC.py -i or --input <file> # Launch Discretize_MCC
+        ##Discretize_MCC.py -i or --input <file> -o or --output <name> # Launch Discretize_MCC to discretize your MCC BEAST nodes output and print the result in the file called <name>
   
 
 ############### IMPORT MODULES ###############
