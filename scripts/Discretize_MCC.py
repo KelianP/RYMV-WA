@@ -21,7 +21,7 @@
      
     ### OPTION LIST:
         ##-h or --help: help information
-        ##-i or --input: input file (.sam)
+        ##-i or --input: input file (.json)
         ##-o or --output: output name files (.txt)
         ##-pol or --polygon_label: polygon_label (default = location) => locationX_80%HPD_XX
 
